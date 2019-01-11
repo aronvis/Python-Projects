@@ -1,0 +1,28 @@
+Trie.ConstructionDestruction 1 1.40096
+Trie.FindEmpty 1 1.01993
+TrieInsert.OneLetterFind 1 1.02269
+TrieInsert.OtherLetterFind 1 1.06044
+TrieInsert.OneWordFind 1 0.899418
+TrieInsert.Substring 1 0.871076
+TrieInsert.SubstringInsert 1 0.859526
+TrieInsert.SplitTree 1 0.988239
+TrieRemove.Empty 1 1.20706
+TrieRemove.Nonexistant 1 0.94687
+TrieRemove.OneLetter 1 1.25373
+TrieRemove.OneWord 1 0.975858
+TrieRemove.UselessNodesRemoved 1 1.07908
+TrieRemove.NotInSet 1 1.08326
+TrieRemove.Superstring 0 0
+TrieRemove.Substring 0 0
+TrieRemove.SplitTreeRemoveLeaf 1 1.07073
+TrieRemove.SplitTreeRemoveRoot 0 0
+TrieInsertStress.Random50x30ele 1 2.355
+TrieInsertStress.Random3x1000ele 1 4.03842
+TrieInsertStress.Random3xUltralongWords 0 0
+TrieInsertStress.NotInSet 1 1.74279
+TrieRemoveStress.RandomBuildupBreakdown 1 12.4528
+---
+TrieRemove.Superstring
+TrieRemove.Substring
+TrieRemove.SplitTreeRemoveRoot
+TrieInsertStress.Random3xUltralongWords

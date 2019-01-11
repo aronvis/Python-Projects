@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+658c3b94a0e98e97770793a53bb46b4f CMakeFiles/check
+17b8f83708761395b9075a2fc413f47f CMakeFiles/grade
