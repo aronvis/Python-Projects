@@ -87,7 +87,3 @@ class linkedList:
     def empty(self):
         return self.getSize() == 0
 
-def main():
-    print(4)
-
-main()
