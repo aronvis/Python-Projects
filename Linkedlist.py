@@ -1,5 +1,3 @@
-import copy
-
 class node:
     def __init__(self, value, prev=None):
         self.value = value
